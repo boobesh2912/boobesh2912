@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Boobesh from Chenna<br>- 📚 I'm currently learning - AI<br>- ⚡ In my free time I Play with no code tools</p>
+<p align="left">I'm Boobesh from Chennai<br>- 📚 I'm currently learning - AI<br>- ⚡ In my free time I Play with no code tools</p>
 
 ###
 
