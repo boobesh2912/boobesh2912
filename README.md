@@ -1,65 +1,77 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Hey%20there,%20I'm%20Boo%20👋&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-###
+  <p align="center">
+    <strong>Founder of GARI TECH | Building India's First AI Media Tech Hackathon</strong>
+  </p>
 
-<div align="center">
-  <a href="https://www.instagram.com/ft.boooo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/boobesh2912" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ft.boooo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/boobeshganesan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+### 🚀 Quick Snapshot
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=boobesh2912.boobesh2912&"  />
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✨ About Me</h4>
+      <ul>
+        <li>🏗️ Founder at <b>GARI TECH</b> & <b>Start The Up</b></li>
+        <li>🎓 3rd Year Engineering Student @ Panimalar</li>
+        <li>🧠 Obsessed with <b>AI, SaaS, and Psychology</b></li>
+        <li>🛠️ Currently building: <i>STREAM LAB 1.0</i></li>
+        <li>⚡ Fun fact: I've hit 500k+ impressions on LinkedIn</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ Tech & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=py,c,wordpress,figma,canva,html,css,js" />
+      <br><br>
+      <h4>📫 Let's Connect</h4>
+      <p>I'm always open to discussing startups, automation, or deepfake prevention tech.</p>
+    </td>
+  </tr>
+</table>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Boobesh from Chennai<br>- 📚 I'm currently learning - AI<br>- ⚡ In my free time I Play with no code tools</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 📊 Interactive Stats & Trophies
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=boobesh2912&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=boobesh2912&theme=radical&no-bg=true&column=4" alt="trophies" />
 </div>
 
-###
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boobesh2912&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boobesh2912&layout=compact&theme=radical&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=boobesh2912&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🛠️ Current Projects & Ventures
+* **STREAM LAB 1.0** - India's First AI Media Tech Hackathon.
+* **The Assignment Forger** - Micro-SaaS converting text to realistic handwriting.
+* **SkillSwap** - AI-driven peer-to-peer skill exchange platform.
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=boobesh2912.boobesh2912&color=6e5494" />
+  <br>
+  <sub>Built with ❤️ by Boobesh</sub>
+</div>
