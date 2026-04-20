@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/boobesh2912">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
     </a>
-    <a href="https://boobesh.garitech.in">
+    <a href="https://boobesh.com">
       <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square" />
     </a>
     <a href="https://www.instagram.com/boobeshganesan">
